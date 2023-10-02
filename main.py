@@ -125,8 +125,8 @@
 # letter_count = 0
 # spaces_count = 0
 #
-#text = input("Enter some text which contains several sentences:")
-
+# text = input("Enter some text which contains several sentences:")
+#
 # exclamation_mark_count = text.count("!")
 #
 # for symbol in text:
@@ -152,7 +152,6 @@
 #
 # next_index = 0
 # next_sentence = ""
-#
 #
 # while next_index >= 0:
 #     next_index = text.find(search_item, first_index+1)
